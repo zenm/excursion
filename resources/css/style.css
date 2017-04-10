@@ -13,6 +13,15 @@ p {
   font-size: 50px;
 }
 
+.center-img{
+  margin: auto;
+  display: block;
+}
+
 .link-color{
 
+}
+
+footer p{
+  text-align: right;
 }
